@@ -1,0 +1,19 @@
+/* override bootstrap global padding */
+section {
+    padding: 100px 0;
+}
+
+/* star for review */
+.star {
+    color: gold;
+}
+
+/* set the secondary color for the navbar */
+.navbar-secondary {
+    background-color: #6c757d6b;
+}
+
+/* change the navbar color when the user scrolls down */
+.navbar-scrolled {
+    background-color: #6c757d6b !important;
+}
